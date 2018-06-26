@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "--------- welcome to my first script -----------"
+echo
+echo "########## This script shows basic info about your system ########### "
+echo
+echo $HOME
+echo
+echo $MACHTYPE
+echo
+echo $HOSTNAME
+echo
+echo $BASH_VERSION
+echo
+echo "End of the script "
+echo
+
